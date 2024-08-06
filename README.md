@@ -1,0 +1,1 @@
+# paseo-chain-specs
