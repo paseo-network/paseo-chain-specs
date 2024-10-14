@@ -2,7 +2,10 @@
   "name": "Paseo Coretime",
   "id": "paseo-coretime",
   "chainType": "Live",
-  "bootNodes": [],
+  "bootNodes": [
+    "/dns/coretime-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWHFTaJ8zM6YxMoVp9JkurRAD8BZvvrwzR1Bc32fahXaf8",
+    "/dns/coretime-paseo-boot-ng.dwellir.com/tcp/30372/p2p/12D3KooWHFTaJ8zM6YxMoVp9JkurRAD8BZvvrwzR1Bc32fahXaf8"
+  ],
   "telemetryEndpoints": null,
   "protocolId": "ct-pas",
   "properties": {
