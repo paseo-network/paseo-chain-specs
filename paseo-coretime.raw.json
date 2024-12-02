@@ -4,7 +4,9 @@
   "chainType": "Live",
   "bootNodes": [
     "/dns/coretime-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWHFTaJ8zM6YxMoVp9JkurRAD8BZvvrwzR1Bc32fahXaf8",
-    "/dns/coretime-paseo-boot-ng.dwellir.com/tcp/30372/p2p/12D3KooWHFTaJ8zM6YxMoVp9JkurRAD8BZvvrwzR1Bc32fahXaf8"
+    "/dns/coretime-paseo-boot-ng.dwellir.com/tcp/30372/p2p/12D3KooWHFTaJ8zM6YxMoVp9JkurRAD8BZvvrwzR1Bc32fahXaf8",
+    "/dns/coretime-paseo-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWL5hnwGCRD8xm1Zosb9R4Dhe32JgYZiA7WqhUvV5JRRQu",
+    "/dns/coretime-paseo-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWL5hnwGCRD8xm1Zosb9R4Dhe32JgYZiA7WqhUvV5JRRQu"
   ],
   "telemetryEndpoints": null,
   "protocolId": "ct-pas",

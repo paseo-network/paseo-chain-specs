@@ -4,7 +4,9 @@
   "chainType": "Live",
   "bootNodes": [
     "/dns/people-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWDsLbDyD8QLvvPW7L9s7tw8BKyFGh6UcPDm1LzWypY49u",
-    "/dns/people-paseo-boot-ng.dwellir.com/tcp/30371/p2p/12D3KooWDsLbDyD8QLvvPW7L9s7tw8BKyFGh6UcPDm1LzWypY49u"
+    "/dns/people-paseo-boot-ng.dwellir.com/tcp/30371/p2p/12D3KooWDsLbDyD8QLvvPW7L9s7tw8BKyFGh6UcPDm1LzWypY49u",
+    "/dns/people-paseo-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWRY1dSd1vGJtB7WrU4JAAojPquLf41WV4LH21CjLp3TB2",
+    "/dns/people-paseo-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWRY1dSd1vGJtB7WrU4JAAojPquLf41WV4LH21CjLp3TB2"
   ],
   "telemetryEndpoints": null,
   "protocolId": "pc-pas",
