@@ -1,7 +1,8 @@
 # paseo-chain-specs
 
 All chain specification files can be found at the following base URL:
-<https://paseo-r2.zondax.ch/chain-specs/>
+[PASEO Chain Specs](https://zondax.ch/paseo)
+
 
 Available chain specification files:
 
