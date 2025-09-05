@@ -6,6 +6,7 @@ All chain specification files can be found at the following base URL:
 
 Available chain specification files:
 
+- [paseo-collectives.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-collectives.raw.json)
 - [paseo-asset-hub.json](https://paseo-r2.zondax.ch/chain-specs/paseo-asset-hub.json)
 - [paseo-bridge-hub.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-bridge-hub.raw.json)
 - [paseo-coretime.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-coretime.raw.json)
