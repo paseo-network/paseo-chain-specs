@@ -1,0 +1,24 @@
+{
+  "name": "Paseo Collectives",
+  "id": "paseo-collectives",
+  "chainType": "Live",
+  "bootNodes": [
+    "/dnsaddr/paseo-collectives.faradaynodes.com/tcp/30333/p2p/12D3KooWPXbeFC995Pg6cLxnuhJPuDWjjeXJP2yyrSYcSAcfyPnt",
+    "/dns/paseo-collectives-bootnode.bestvalidator.com/tcp/49043/p2p/12D3KooWGM3gLv9wwZicmEbh57jV1ZuCa23rYW3pXEp2B76UTZvk",
+    "/dns/collectives-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWSyqxzmjsS5k1wcvcKiCouZiXuopkT8YWJyeEq4FHPD6o",
+    "/dns/collectives-paseo-boot-ng.dwellir.com/tcp/30383/p2p/12D3KooWSyqxzmjsS5k1wcvcKiCouZiXuopkT8YWJyeEq4FHPD6o"
+  ],
+  "telemetryEndpoints": null,
+  "protocolId": "col-pas",
+  "properties": {
+    "ss58Format": 0,
+    "tokenDecimals": 10,
+    "tokenSymbol": "PAS"
+  },
+  "relay_chain": "paseo",
+  "para_id": 1001,
+  "codeSubstitutes": {},
+  "genesis": {
+    "stateRootHash": "0xbddadb0d9cbd5260014da844a1562ccf31dd61237e2de5255c458fed9869f3a9"
+  }
+}

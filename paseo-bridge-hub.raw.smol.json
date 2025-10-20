@@ -1,0 +1,30 @@
+{
+  "name": "Paseo Bridge Hub",
+  "id": "paseo-bridge-hub",
+  "chainType": "Live",
+  "bootNodes": [
+    "/dns/bridge-hub-paseo.bootnode.amforc.com/tcp/29999/wss/p2p/12D3KooWJ2LrEJ6xz2aB35G6RKR8TQWpit9UP83q6mWD6MC6p3cq",
+    "/dns/bridge-hub-paseo.bootnode.amforc.com/tcp/30015/p2p/12D3KooWJ2LrEJ6xz2aB35G6RKR8TQWpit9UP83q6mWD6MC6p3cq",
+    "/dns/boot.gatotech.network/tcp/33420/p2p/12D3KooWMjKe7HVyRHtKw1aYvN5JEM9YNZtXCw4Te9E8xM3Lus8L",
+    "/dns/boot.gatotech.network/tcp/35420/wss/p2p/12D3KooWMjKe7HVyRHtKw1aYvN5JEM9YNZtXCw4Te9E8xM3Lus8L",
+    "/dns/boot-node.helikon.io/tcp/10330/p2p/12D3KooWAkBY8VvL9uEjUwnrswESCXNN4xU9kaUxbGEUsbQNeqiy",
+    "/dns/boot.metaspan.io/tcp/50903/p2p/12D3KooWQWrbHbccL7zDCSiE1jJHqbK3HBfT3k4aWzVDcKq7wLcb",
+    "/dns/bridge-hub-paseo.boot.rotko.net/tcp/34021/p2p/12D3KooWS7FsgLf2WE7otd9fizJrJ9C7vsw5kh6BsySfMpziHTkU",
+    "/dns/bridge-hub-paseo.boot.rotko.net/tcp/30435/wss/p2p/12D3KooWS7FsgLf2WE7otd9fizJrJ9C7vsw5kh6BsySfMpziHTkU",
+    "/dns/bridge-hub-paseo-bootnode.turboflakes.io/tcp/30835/p2p/12D3KooWDoJCJDLsg5saK7NAzWsSt2m91xka23Q719rqKmVrWXos",
+    "/dns/bridge-hub-paseo-bootnode.turboflakes.io/tcp/30435/wss/p2p/12D3KooWDoJCJDLsg5saK7NAzWsSt2m91xka23Q719rqKmVrWXos"
+  ],
+  "telemetryEndpoints": null,
+  "protocolId": "bh-pas",
+  "properties": {
+    "ss58Format": 0,
+    "tokenDecimals": 10,
+    "tokenSymbol": "PAS"
+  },
+  "relay_chain": "paseo",
+  "para_id": 1002,
+  "codeSubstitutes": {},
+  "genesis": {
+    "stateRootHash": "0x779cb1a37592231ecbce66fc97136f6d5894fb3debb73975a0c6a74eec4758b4"
+  }
+}
