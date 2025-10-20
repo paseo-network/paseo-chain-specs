@@ -1,0 +1,35 @@
+{
+  "name": "Paseo Coretime",
+  "id": "paseo-coretime",
+  "chainType": "Live",
+  "bootNodes": [
+    "/dns/coretime-paseo.bootnode.amforc.com/tcp/29999/wss/p2p/12D3KooWHuVFHYyVik8AKeNS5YQ711hvxsnXrpKABNkt8R564wQJ",
+    "/dns/coretime-paseo.bootnode.amforc.com/tcp/30008/p2p/12D3KooWHuVFHYyVik8AKeNS5YQ711hvxsnXrpKABNkt8R564wQJ",
+    "/dns/boot.gatotech.network/tcp/33440/p2p/12D3KooWAfCSUgexsXsJho7ZpMU1tu59GD6LNUcn4TqBFr88vW1z",
+    "/dns/boot.gatotech.network/tcp/35440/wss/p2p/12D3KooWAfCSUgexsXsJho7ZpMU1tu59GD6LNUcn4TqBFr88vW1z",
+    "/dns/boot-node.helikon.io/tcp/10460/p2p/12D3KooWDK4nZtoSPC6mhtdWxymnPcEnGbnszDiTMoMHr94vmbFg",
+    "/dns/boot.metaspan.io/tcp/51283/p2p/12D3KooWCTRJcnJ1ouLCo9JH5BV14M5CXKy53XjngYH2YL3X2bVG",
+    "/dns/coretime-paseo-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWL5hnwGCRD8xm1Zosb9R4Dhe32JgYZiA7WqhUvV5JRRQu",
+    "/dns/coretime-paseo-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWL5hnwGCRD8xm1Zosb9R4Dhe32JgYZiA7WqhUvV5JRRQu",
+    "/dns/coretime-paseo.boot.rotko.net/tcp/34051/p2p/12D3KooWELkr2WfNmAB399CUMpujUZ5Wi87JyCivi8cQ8vonYufF",
+    "/dns/coretime-paseo.boot.rotko.net/tcp/30435/wss/p2p/12D3KooWELkr2WfNmAB399CUMpujUZ5Wi87JyCivi8cQ8vonYufF",
+    "/dns/coretime-paseo-bootnode.turboflakes.io/tcp/30845/p2p/12D3KooWJiSNGR24CUg6ht5NoTP88sHDR2CJiPuXFEKENwPNeFab",
+    "/dns/coretime-paseo-bootnode.turboflakes.io/tcp/30445/wss/p2p/12D3KooWJiSNGR24CUg6ht5NoTP88sHDR2CJiPuXFEKENwPNeFab",
+    "/dns/boot.interweb-it.com/tcp/50213/p2p/12D3KooWFwoezyaH3SAUXYvQeQzLVuqqBvXpUM2frmEf2QhjrNFi",
+    "/dns/boot.interweb-it.com/tcp/50215/ws/p2p/12D3KooWFwoezyaH3SAUXYvQeQzLVuqqBvXpUM2frmEf2QhjrNFi",
+    "/dns/boot.interweb-it.com/tcp/50216/wss/p2p/12D3KooWFwoezyaH3SAUXYvQeQzLVuqqBvXpUM2frmEf2QhjrNFi"
+  ],
+  "telemetryEndpoints": null,
+  "protocolId": "ct-pas",
+  "properties": {
+    "ss58Format": 0,
+    "tokenDecimals": 10,
+    "tokenSymbol": "PAS"
+  },
+  "relay_chain": "paseo",
+  "para_id": 1005,
+  "codeSubstitutes": {},
+  "genesis": {
+    "stateRootHash": "0xde1d5a6f99dc479feeed1ef47f3c8a326c5316fe2422771f58c41b219276e56a"
+  }
+}
