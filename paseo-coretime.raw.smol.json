@@ -5,8 +5,6 @@
   "bootNodes": [
     "/dns/coretime-paseo.bootnode.amforc.com/tcp/29999/wss/p2p/12D3KooWHuVFHYyVik8AKeNS5YQ711hvxsnXrpKABNkt8R564wQJ",
     "/dns/coretime-paseo.bootnode.amforc.com/tcp/30008/p2p/12D3KooWHuVFHYyVik8AKeNS5YQ711hvxsnXrpKABNkt8R564wQJ",
-    "/dns/boot.gatotech.network/tcp/33440/p2p/12D3KooWAfCSUgexsXsJho7ZpMU1tu59GD6LNUcn4TqBFr88vW1z",
-    "/dns/boot.gatotech.network/tcp/35440/wss/p2p/12D3KooWAfCSUgexsXsJho7ZpMU1tu59GD6LNUcn4TqBFr88vW1z",
     "/dns/boot-node.helikon.io/tcp/10460/p2p/12D3KooWDK4nZtoSPC6mhtdWxymnPcEnGbnszDiTMoMHr94vmbFg",
     "/dns/boot.metaspan.io/tcp/51283/p2p/12D3KooWCTRJcnJ1ouLCo9JH5BV14M5CXKy53XjngYH2YL3X2bVG",
     "/dns/coretime-paseo-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWL5hnwGCRD8xm1Zosb9R4Dhe32JgYZiA7WqhUvV5JRRQu",
