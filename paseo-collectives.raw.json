@@ -6,7 +6,17 @@
     "/dnsaddr/paseo-collectives.faradaynodes.com/tcp/30333/p2p/12D3KooWPXbeFC995Pg6cLxnuhJPuDWjjeXJP2yyrSYcSAcfyPnt",
     "/dns/paseo-collectives-bootnode.bestvalidator.com/tcp/49043/p2p/12D3KooWGM3gLv9wwZicmEbh57jV1ZuCa23rYW3pXEp2B76UTZvk",
     "/dns/collectives-paseo-boot-ng.dwellir.com/tcp/443/wss/p2p/12D3KooWSyqxzmjsS5k1wcvcKiCouZiXuopkT8YWJyeEq4FHPD6o",
-    "/dns/collectives-paseo-boot-ng.dwellir.com/tcp/30383/p2p/12D3KooWSyqxzmjsS5k1wcvcKiCouZiXuopkT8YWJyeEq4FHPD6o"
+    "/dns/collectives-paseo-boot-ng.dwellir.com/tcp/30383/p2p/12D3KooWSyqxzmjsS5k1wcvcKiCouZiXuopkT8YWJyeEq4FHPD6o",
+    "/dns/boot.gatotech.network/tcp/33460/p2p/12D3KooWB8ZsxTf8vgz2qrtZ6mHhu6SwXKQKr42zj474vtSN7B41",
+    "/dns/boot.gatotech.network/tcp/35460/wss/p2p/12D3KooWB8ZsxTf8vgz2qrtZ6mHhu6SwXKQKr42zj474vtSN7B41",
+    "/dns/ibp-boot-collectives-paseo.luckyfriday.io/tcp/443/wss/p2p/12D3KooWRj1AtDDdV5HqfoQhCmyrauHuNBLvbMCSqcWifDtatpFV",
+    "/dns/collectives-paseo-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWBW6YMAuYLp25kd2YPDq91EmtcD1q2BWDTCH8FpcqqoNR",
+    "/dns/collectives-paseo-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWBW6YMAuYLp25kd2YPDq91EmtcD1q2BWDTCH8FpcqqoNR",
+    "/dns/collectives-paseo.boot.rotko.net/tcp/34031/p2p/12D3KooWPDcXnxd6JDJSZJTAXmvqDmEPBC7E4pnGQBGgR6q7JvHa",
+    "/dns/collectives-paseo.boot.rotko.net/tcp/30435/wss/p2p/12D3KooWPDcXnxd6JDJSZJTAXmvqDmEPBC7E4pnGQBGgR6q7JvHa",
+    "/dns/collectives-paseo-01.bootnode.stkd.io/tcp/30633/wss/p2p/12D3KooWCayigzkUveeti8HgRfrpqdkyLsEC8fkRvn1oYabZtJ51",
+    "/dns/collectives-paseo-bootnode.turboflakes.io/tcp/30850/p2p/12D3KooWG45TdHiT6Pcz2Ev8NuMxrX7mTpDR9r1zMFsPi9ajJWtA",
+    "/dns/collectives-paseo-bootnode.turboflakes.io/tcp/30450/wss/p2p/12D3KooWG45TdHiT6Pcz2Ev8NuMxrX7mTpDR9r1zMFsPi9ajJWtA"
   ],
   "telemetryEndpoints": null,
   "protocolId": "col-pas",
