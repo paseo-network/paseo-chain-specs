@@ -18,7 +18,8 @@
     "/dns/boot.stake.plus/tcp/44333/wss/p2p/12D3KooWSaDfEuvzA8xFyPvDaptCJn2WYUz1f1QFtTiwk4MpnHVo",
     "/dns/asset-hub-paseo-01.bootnode.stkd.io/tcp/30633/wss/p2p/12D3KooWAYPSpFHBWqqBeWGoVg5bKJspco4GGEh8UtfAzj9AmzQf",
     "/dns/asset-hub-paseo-bootnode.turboflakes.io/tcp/30330/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM",
-    "/dns/asset-hub-paseo-bootnode.turboflakes.io/tcp/30430/wss/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM"
+    "/dns/asset-hub-paseo-bootnode.turboflakes.io/tcp/30430/wss/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM",
+    "/dns/node-pas-assethub-boot.zondax.ch/tcp/443/wss/p2p/12D3KooWJRSVDBpKsGCViwZAwRjtjJ5QcHJqMQfTWJCwpFaMtjKQ"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
