@@ -17,7 +17,8 @@
     "/dns/people-paseo.boot.stake.plus/tcp/31332/wss/p2p/12D3KooWDVh1Srn7RHsu2wMN6tRjZ1DJACPMbkCcKo2ajvmENi3w",
     "/dns/people-paseo-01.bootnode.stkd.io/tcp/30633/wss/p2p/12D3KooWNAS3dhnNbomMFH5XSRt34Lrc4eg3Qto9Y9YhrpWddnje",
     "/dns/people-paseo-bootnode.turboflakes.io/tcp/30840/p2p/12D3KooWPHNzviPuVsEsWNQQYL9gvfQ4BATKzYik3bh2p95pqvAJ",
-    "/dns/people-paseo-bootnode.turboflakes.io/tcp/30440/wss/p2p/12D3KooWPHNzviPuVsEsWNQQYL9gvfQ4BATKzYik3bh2p95pqvAJ"
+    "/dns/people-paseo-bootnode.turboflakes.io/tcp/30440/wss/p2p/12D3KooWPHNzviPuVsEsWNQQYL9gvfQ4BATKzYik3bh2p95pqvAJ",
+    "/dns/node-pas-people-boot.zondax.ch/tcp/443/wss/p2p/12D3KooWLcEFN12qwXAmAcTL9xFZ1wB1RfuFSZfcBNh3nXo6yAKo"
   ],
   "telemetryEndpoints": null,
   "protocolId": "pc-pas",

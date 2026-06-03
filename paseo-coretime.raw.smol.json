@@ -16,7 +16,8 @@
     "/dns/coretime-paseo.boot.rotko.net/tcp/30435/wss/p2p/12D3KooWELkr2WfNmAB399CUMpujUZ5Wi87JyCivi8cQ8vonYufF",
     "/dns/coretime-paseo-01.bootnode.stkd.io/tcp/30633/wss/p2p/12D3KooWNUkXB4ozrzjQdNEm5vJCsvKd7GRJA5nXP3VRE736KjGz",
     "/dns/coretime-paseo-bootnode.turboflakes.io/tcp/30845/p2p/12D3KooWJiSNGR24CUg6ht5NoTP88sHDR2CJiPuXFEKENwPNeFab",
-    "/dns/coretime-paseo-bootnode.turboflakes.io/tcp/30445/wss/p2p/12D3KooWJiSNGR24CUg6ht5NoTP88sHDR2CJiPuXFEKENwPNeFab"
+    "/dns/coretime-paseo-bootnode.turboflakes.io/tcp/30445/wss/p2p/12D3KooWJiSNGR24CUg6ht5NoTP88sHDR2CJiPuXFEKENwPNeFab",
+    "/dns/node-pas-coretime-boot.zondax.ch/tcp/443/wss/p2p/12D3KooWSg955gp6pApGfTPG28bhEPsTnpgnQWxP5vrSi9TCrByc"
   ],
   "telemetryEndpoints": null,
   "protocolId": "ct-pas",

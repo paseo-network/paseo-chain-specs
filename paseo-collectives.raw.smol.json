@@ -16,7 +16,8 @@
     "/dns/collectives-paseo.boot.rotko.net/tcp/30435/wss/p2p/12D3KooWPDcXnxd6JDJSZJTAXmvqDmEPBC7E4pnGQBGgR6q7JvHa",
     "/dns/collectives-paseo-01.bootnode.stkd.io/tcp/30633/wss/p2p/12D3KooWCayigzkUveeti8HgRfrpqdkyLsEC8fkRvn1oYabZtJ51",
     "/dns/collectives-paseo-bootnode.turboflakes.io/tcp/30850/p2p/12D3KooWG45TdHiT6Pcz2Ev8NuMxrX7mTpDR9r1zMFsPi9ajJWtA",
-    "/dns/collectives-paseo-bootnode.turboflakes.io/tcp/30450/wss/p2p/12D3KooWG45TdHiT6Pcz2Ev8NuMxrX7mTpDR9r1zMFsPi9ajJWtA"
+    "/dns/collectives-paseo-bootnode.turboflakes.io/tcp/30450/wss/p2p/12D3KooWG45TdHiT6Pcz2Ev8NuMxrX7mTpDR9r1zMFsPi9ajJWtA",
+    "/dns/node-pas-collectives-boot.zondax.ch/tcp/443/wss/p2p/12D3KooWFLVw1cE8mpVHZDsYaTftXECE18PWMpJhEK6LDr25wgHG"
   ],
   "telemetryEndpoints": null,
   "protocolId": "col-pas",
