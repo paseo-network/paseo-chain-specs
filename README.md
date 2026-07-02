@@ -6,12 +6,13 @@ All chain specification files can be found at the following base URL:
 
 Available chain specification files:
 
-- [paseo-collectives.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-collectives.raw.json)
-- [paseo-asset-hub.json](https://paseo-r2.zondax.ch/chain-specs/paseo-asset-hub.json)
-- [paseo-bridge-hub.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-bridge-hub.raw.json)
-- [paseo-coretime.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-coretime.raw.json)
-- [paseo-people.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo-people.raw.json)
-- [paseo.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo.raw.json)
+- [paseo.raw.json](https://paseo-r2.zondax.ch/chain-specs/paseo.raw.json) — **current** Paseo relay (substitute relay, new genesis)
+
+> **Substitute-relay relaunch:** Paseo has been relaunched from block 0 with a new genesis
+> (`Paseo`, protocol-id `pad`, ss58 `42`). The previous chain specs — the original relay
+> (`Paseo Testnet`, protocol-id `pas`, ss58 `0`) and all system-chain specs — are archived under
+> [`paseo-legacy/`](./paseo-legacy) for historical reference. System-chain specs for the new
+> network will be added here as those chains are onboarded.
 
 Use wget to download the needed file:
 
