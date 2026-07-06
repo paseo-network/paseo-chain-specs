@@ -20,6 +20,13 @@ Use wget/curl to download the needed file, e.g.:
 wget https://raw.githubusercontent.com/paseo-network/paseo-chain-specs/main/paseo.raw.json
 ```
 
+> **Asset Hub full-node spec:** the non-smoldot-friendly Asset Hub spec for full nodes is
+> distributed as a zip archive and can be downloaded with:
+>
+> ```bash
+> wget https://github.com/paulormart/ahpaseo-specs/raw/refs/heads/main/paseo-asset-hub-2.json.zip
+> ```
+
 ## Chain Spec Types
 
 This repository contains two types of chain specifications:
