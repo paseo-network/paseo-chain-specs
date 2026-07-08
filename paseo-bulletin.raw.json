@@ -2,7 +2,10 @@
   "name": "Bulletin Paseo",
   "id": "bulletin-paseo",
   "chainType": "Live",
-  "bootNodes": [],
+  "bootNodes": [
+    "/dns/bulletin-paseo.faradaynodes.com/tcp/35503/p2p/12D3KooWRVrepgbKXa8qUq1NAR6ehqZr1tZZK8Y7NynaruNJy9gA",
+    "/dns/bulletin-paseo.faradaynodes.com/tcp/35507/wss/p2p/12D3KooWRVrepgbKXa8qUq1NAR6ehqZr1tZZK8Y7NynaruNJy9gA"
+  ],
   "telemetryEndpoints": null,
   "protocolId": "bl-pas",
   "properties": {
