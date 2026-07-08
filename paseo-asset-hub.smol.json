@@ -3,8 +3,8 @@
   "id": "asset-hub-paseo",
   "chainType": "Live",
   "bootNodes": [
-	  "/dns/node-pas-assethub-boot.zondax.ch/tcp/443/wss/p2p/12D3KooWJRSVDBpKsGCViwZAwRjtjJ5QcHJqMQfTWJCwpFaMtjKQ",
-	  "/ip4/213.246.39.217/tcp/32333/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg"
+    "/dns4/n8ahr1.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM",
+    "/ip4/213.246.39.217/tcp/32333/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
