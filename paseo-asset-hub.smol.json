@@ -4,7 +4,8 @@
   "chainType": "Live",
   "bootNodes": [
     "/dns4/n8ahr1.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM",
-    "/ip4/213.246.39.217/tcp/32333/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg"
+    "/dns/asset-hub-paseo-bootnode.turboflakes.io/tcp/30430/wss/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM",
+    "/dns/asset-hub-paseo-bootnode.turboflakes.io/tcp/30330/p2p/12D3KooWJzfVkdDnKfn2hQ1c3ysrbmReTjVKrEBHkdwgZThbB1BM"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
