@@ -13,7 +13,7 @@ Each chain ships in two flavours: a **full** raw spec for node operators, and a 
 | **Paseo** (relay) | `paseo` | — | [`paseo.raw.json`](./paseo.raw.json) | [`paseo.raw.smol.json`](./paseo.raw.smol.json) |
 | **Paseo Asset Hub** | `asset-hub-paseo` | 1000 | _zip archive — see below_ | [`paseo-asset-hub.smol.json`](./paseo-asset-hub.smol.json) |
 | **Paseo People** | `paseo-people` | 1004 | [`paseo-people.raw.json`](./paseo-people.raw.json) | [`paseo-people.raw.smol.json`](./paseo-people.raw.smol.json) |
-| **Bulletin Paseo** | `bulletin-paseo` | 1010 | [`paseo-bulletin.raw.json`](./paseo-bulletin.raw.json) | _pending — added once the chain is onboarded_ |
+| **Bulletin Paseo** | `bulletin-paseo` | 1010 | [`paseo-bulletin.raw.json`](./paseo-bulletin.raw.json) | [`paseo-bulletin.raw.smol.json`](./paseo-bulletin.raw.smol.json) |
 
 Download any file with wget/curl, e.g.:
 
