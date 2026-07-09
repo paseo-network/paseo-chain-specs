@@ -5,7 +5,6 @@
   "bootNodes": [
 	"/dns4/boot.people-paseo.rubynodes.io/tcp/32333/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg",
 	"/dns4/boot.people-paseo.rubynodes.io/tcp/443/wss/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg"
-
   ],
   "telemetryEndpoints": null,
   "protocolId": "pc-pas",
