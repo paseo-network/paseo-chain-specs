@@ -6,7 +6,12 @@
   	"/dns4/boot.people-paseo.rubynodes.io/tcp/32333/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg",
 	"/dns4/boot.people-paseo.rubynodes.io/tcp/443/wss/p2p/12D3KooW9sqprunebThWXxoo4ckBzqvak2NkbFoR7rJVAdxnBwtg",
 	"/dns/boot.interweb-it.com/tcp/51323/p2p/12D3KooWNdjH7DcGa64Qx2SjiBrRA9bbSUvxe5j2xWZL9zU1zxUf",
-	"/dns/boot.interweb-it.com/tcp/51333/p2p/12D3KooWKN16TDadm6K8mAJKjCiEXzjURtD2M2hzxcHEe2MpNyzC"
+	"/dns/boot.interweb-it.com/tcp/51333/p2p/12D3KooWKN16TDadm6K8mAJKjCiEXzjURtD2M2hzxcHEe2MpNyzC",
+	"/dns/people-paseo.boot.rotko.net/tcp/443/wss/p2p/12D3KooWGrnPyuaEHTrDmnLbXD33jA9aAzwjnPUcLaP3bG2VgmLm",
+	"/ip4/160.22.181.188/tcp/30333/p2p/12D3KooWGrnPyuaEHTrDmnLbXD33jA9aAzwjnPUcLaP3bG2VgmLm",
+	"/ip6/2401:a860:1181:50:73::3408/tcp/30333/p2p/12D3KooWGrnPyuaEHTrDmnLbXD33jA9aAzwjnPUcLaP3bG2VgmLm",
+	"/dns/people-paseo-bootnode.turboflakes.io/tcp/30440/wss/p2p/12D3KooWPHNzviPuVsEsWNQQYL9gvfQ4BATKzYik3bh2p95pqvAJ",
+	"/dns/people-paseo-bootnode.turboflakes.io/tcp/30840/p2p/12D3KooWPHNzviPuVsEsWNQQYL9gvfQ4BATKzYik3bh2p95pqvAJ"
   ],
   "telemetryEndpoints": null,
   "protocolId": "pc-pas",
