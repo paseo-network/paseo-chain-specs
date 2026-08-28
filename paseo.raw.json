@@ -4,7 +4,10 @@
   "chainType": "Live",
   "bootNodes": [
     "/dns/n8r2.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWC3noUwG6TJwh4AJMNxCMNvmSZeknsLtXudxrB7nPXbjG",
-    "/ip4/139.99.130.67/tcp/30333/p2p/12D3KooWCj2oX6oAV3NohsZbyPhNN3LAK9BcdBENTnbJWoFCX7jq"
+    "/dns/n8r1.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWEW95SEHApYYPey7jyMC21DLvhnS5axk9Zy62EtL2joBB",
+    "/dns/n8v1.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWRnhmJPNauPYbx8q3s2mEWQqmZiUHxna2zcRA7xTubEEw",
+    "/dns/n8v2.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWJhVVqm5qmrfMJ248F5qPg9HVZ3UHWa75KbjEnRtD8dKb",
+    "/dns/boot-paseo.stakeworld.io/tcp/443/wss/p2p/12D3KooWKFPRsxqfxnmb7AnC1s8bkzRpJZp54RGcLzMDGwvAW6Ca",
   ],
   "telemetryEndpoints": null,
   "protocolId": "pad",
