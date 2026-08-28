@@ -8,6 +8,7 @@
     "/dns/n8v1.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWRnhmJPNauPYbx8q3s2mEWQqmZiUHxna2zcRA7xTubEEw",
     "/dns/n8v2.bn.turboflakes.io/tcp/30443/wss/p2p/12D3KooWJhVVqm5qmrfMJ248F5qPg9HVZ3UHWa75KbjEnRtD8dKb",
     "/dns/boot-paseo.stakeworld.io/tcp/443/wss/p2p/12D3KooWKFPRsxqfxnmb7AnC1s8bkzRpJZp54RGcLzMDGwvAW6Ca",
+    "/dns/boot.interweb-it.com/tcp/33017/wss/p2p/12D3KooWFddLTDDRuGkACeLw5VLbRVxeYNpTDPN6eNDtFx8nyiWV"
   ],
   "telemetryEndpoints": null,
   "protocolId": "pad",
